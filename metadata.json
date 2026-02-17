@@ -1,0 +1,7 @@
+{
+  "name": "CloudGen 2026",
+  "description": "A cinematic, super-realistic digital cloud simulation where you can write text in the sky. Powered by Gemini for atmospheric generation.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
